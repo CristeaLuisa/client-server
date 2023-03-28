@@ -1,6 +1,6 @@
 
 //1. Comunicare prin socket stream, IPv4 cu serverul Web ales. Programul client Linux se va realiza astfel încât să se
-conecteze la server pe portul 80;
+//conecteze la server pe portul 80;
 //2. Programul client va rula în buclă, afișând meniul de mai jos și așteptând o opțiune introdusă de utilizator:
 //1. Conectare la server
 //2. Deconectare de la server
